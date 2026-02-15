@@ -12,6 +12,9 @@ header {
     background-color: #222;
     padding: 15px;
     align-items: center;
+    position:sticky;
+    top:0;
+    z-index:10;
 }
 
 .logo {
@@ -47,6 +50,7 @@ nav a {
     display: flex;
     gap: 20px;
 }
+
 
 
 
